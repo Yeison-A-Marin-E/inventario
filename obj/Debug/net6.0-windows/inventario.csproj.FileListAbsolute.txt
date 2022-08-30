@@ -1,0 +1,17 @@
+D:\proyectos\inventario\bin\Debug\net6.0-windows\inventario.exe
+D:\proyectos\inventario\bin\Debug\net6.0-windows\inventario.deps.json
+D:\proyectos\inventario\bin\Debug\net6.0-windows\inventario.runtimeconfig.json
+D:\proyectos\inventario\bin\Debug\net6.0-windows\inventario.dll
+D:\proyectos\inventario\bin\Debug\net6.0-windows\inventario.pdb
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.csproj.AssemblyReference.cache
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.INICIO.resources
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.csproj.GenerateResource.cache
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.AssemblyInfoInputs.cache
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.AssemblyInfo.cs
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.csproj.CoreCompileInputs.cache
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.dll
+D:\proyectos\inventario\obj\Debug\net6.0-windows\refint\inventario.dll
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.pdb
+D:\proyectos\inventario\obj\Debug\net6.0-windows\inventario.genruntimeconfig.cache
+D:\proyectos\inventario\obj\Debug\net6.0-windows\ref\inventario.dll
